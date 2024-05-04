@@ -1,4 +1,4 @@
-package sg.edu.np.mad.madpractical3;
+package sg.edu.np.mad.practical3;
 
 import android.os.Bundle;
 import android.view.View;

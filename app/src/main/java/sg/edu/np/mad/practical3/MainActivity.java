@@ -1,4 +1,4 @@
-package sg.edu.np.mad.madpractical3;
+package sg.edu.np.mad.practical3;
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -68,10 +68,5 @@ public class MainActivity extends AppCompatActivity {
                 startActivity(new Intent(MainActivity.this, MessageGroup.class));
             }
         });
-
-
-
-
-
     }
 }
