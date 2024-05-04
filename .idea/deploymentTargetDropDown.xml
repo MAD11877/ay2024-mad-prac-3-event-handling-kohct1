@@ -5,6 +5,15 @@
       <entry key="Practical2.app">
         <State />
       </entry>
+      <entry key="Practical2.app.androidTest">
+        <State />
+      </entry>
+      <entry key="Practical2.app.main">
+        <State />
+      </entry>
+      <entry key="Practical2.app.unitTest">
+        <State />
+      </entry>
     </value>
   </component>
 </project>
